@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "452055106037",
+    "project_id": "applilivrefb",
+    "storage_bucket": "applilivrefb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452055106037:android:fe7e427cb0978c38bae0bc",
+        "android_client_info": {
+          "package_name": "com.example.appli_livre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlHDW-ELlR8CBqjUPTqvvo6ZsiYro4a_A"
+
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+

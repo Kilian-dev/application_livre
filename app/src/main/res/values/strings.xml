@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bibliotheque</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="se_connecter">Se Connecter</string>
+    <string name="mot_de_passe">mot de passe</string>
+    <string name="connexion">Connexion</string>
+    <string name="inscription">inscription</string>
+    <string name="inscrire">Inscrire</string>
+
+</resources>
